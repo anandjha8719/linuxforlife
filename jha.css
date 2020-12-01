@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(199, 236, 241);
+}
+#title1{
+    color: rgb(176, 199, 48);
+    padding: 4%;
+    text-align: center;
+}
+#list{
+    padding-bottom: 4%;
+    padding-left: 10%;
+    border: 3px solid rgb(56, 223, 153);
+    border-radius: 10%;
+    padding-top: 4%;
+    margin-right: 20%;
+    
+}
+#title2{
+    color: red;
+    margin-left: 12%;
+}
+#imageid{
+    margin-left: 4px;
+}
